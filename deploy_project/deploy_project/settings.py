@@ -27,7 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = []
 
-ALLOWED_HOSTS = ["max3koz_server.pythonanywhere.com"]
+ALLOWED_HOSTS = ["max3kozserver.pythonanywhere.com"]
 
 # Application definition
 
