@@ -1,4 +1,4 @@
-#!/home/mtrykoz/PycharmProjects/PythonProject/PythonProCourse/Lesson_26/deploy_project/deploy_venv/bin/python3
+#!/home/max3kozserver/deploy_project_test/deploy_venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV=/home/mtrykoz/PycharmProjects/PythonProject/PythonProCourse/Lesson_26/deploy_project/deploy_venv
+VIRTUAL_ENV=/home/max3kozserver/deploy_project_test/deploy_venv
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
